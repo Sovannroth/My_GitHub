@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/id_search"
+        android:icon="@drawable/ic__search_24"
+        android:title="Search"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/id_signout"
+        android:title="Signout"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_login"
+        android:onClick="onContextItemSelected"/>
+    <item
+        android:id="@+id/id_changePassword"
+        android:title="Change Password"
+        app:showAsAction="never"
+        android:icon="@drawable/ic_settings_24"
+        android:onClick="onContextItemSelected"
+        />
+</menu>

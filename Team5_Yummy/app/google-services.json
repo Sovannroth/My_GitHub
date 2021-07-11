@@ -1,0 +1,213 @@
+{
+  "project_info": {
+    "project_number": "967893919823",
+    "project_id": "yummy-food-delivery",
+    "storage_bucket": "yummy-food-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967893919823:android:9b671b429be3c5db1a223a",
+        "android_client_info": {
+          "package_name": "kh.edu.itc.gtr.team0.yummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967893919823-uiu6hio8ck6ac4mm072t9qssgm11fvdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_LOjocSk7Cx1TNNygoVsFJ9kbM-2NQR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967893919823-uiu6hio8ck6ac4mm072t9qssgm11fvdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967893919823:android:84e49a14c6ad09311a223a",
+        "android_client_info": {
+          "package_name": "kh.edu.itc.gtr.team1.yummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967893919823-uiu6hio8ck6ac4mm072t9qssgm11fvdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_LOjocSk7Cx1TNNygoVsFJ9kbM-2NQR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967893919823-uiu6hio8ck6ac4mm072t9qssgm11fvdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967893919823:android:a6eee716a7b668751a223a",
+        "android_client_info": {
+          "package_name": "kh.edu.itc.gtr.team2.yummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967893919823-uiu6hio8ck6ac4mm072t9qssgm11fvdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_LOjocSk7Cx1TNNygoVsFJ9kbM-2NQR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967893919823-uiu6hio8ck6ac4mm072t9qssgm11fvdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967893919823:android:623a78c9ab1284ae1a223a",
+        "android_client_info": {
+          "package_name": "kh.edu.itc.gtr.team3.yummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967893919823-uiu6hio8ck6ac4mm072t9qssgm11fvdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_LOjocSk7Cx1TNNygoVsFJ9kbM-2NQR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967893919823-uiu6hio8ck6ac4mm072t9qssgm11fvdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967893919823:android:1127d3281aafe2821a223a",
+        "android_client_info": {
+          "package_name": "kh.edu.itc.gtr.team4.yummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967893919823-uiu6hio8ck6ac4mm072t9qssgm11fvdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_LOjocSk7Cx1TNNygoVsFJ9kbM-2NQR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967893919823-uiu6hio8ck6ac4mm072t9qssgm11fvdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967893919823:android:7b03a5e2b42ca7181a223a",
+        "android_client_info": {
+          "package_name": "kh.edu.itc.gtr.team5.yummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967893919823-uiu6hio8ck6ac4mm072t9qssgm11fvdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_LOjocSk7Cx1TNNygoVsFJ9kbM-2NQR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967893919823-uiu6hio8ck6ac4mm072t9qssgm11fvdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967893919823:android:f504aeb04523a9c11a223a",
+        "android_client_info": {
+          "package_name": "kh.edu.itc.gtr.team6.yummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967893919823-uiu6hio8ck6ac4mm072t9qssgm11fvdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_LOjocSk7Cx1TNNygoVsFJ9kbM-2NQR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967893919823-uiu6hio8ck6ac4mm072t9qssgm11fvdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

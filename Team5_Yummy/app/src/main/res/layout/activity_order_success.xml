@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".activity.OrderSuccessActivity">
+    <include
+        layout="@layout/bar_layout"/>
+
+    <ImageView
+        android:layout_width="344dp"
+        android:layout_height="181dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/order_success" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Thank You!"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/pink"
+        android:textStyle="bold"
+        android:textSize="35dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="for your order"
+        android:textColor="@color/pink"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="26dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="26dp"
+        android:gravity="center"
+        android:text="Your order is now being processed. We will let you know once the order is picked."
+        android:textColor="@color/pink"
+        android:textSize="19dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_pink_bg"
+        android:text="Back to Home"
+        android:layout_marginTop="30dp"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:onClick="backToHome"/>
+
+    <ImageView
+        android:layout_width="151dp"
+        android:layout_height="135dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/yummy_logo_white_background" />
+
+</LinearLayout>
